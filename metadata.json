@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Position Size Calculator",
+  "description": "A calculator to determine position size and manage risk in cryptocurrency markets. Enter your entry price, stop loss, target, and risk amount to get the exact position size and potential profit.",
+  "requestFramePermissions": []
+}
